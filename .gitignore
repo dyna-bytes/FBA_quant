@@ -1,3 +1,6 @@
+.gitignore
 FAI/IntermediatePython/
 FAI/Homework/Week1/Lesson_6.
 /FAI/Homework/Week1/Lesson_6._Project-Exploring_Near-Earth_Objects/__pycache__/
+FAI/Homework/Week2/USDT/
+FAI/Homework/Week2/pykrx/
