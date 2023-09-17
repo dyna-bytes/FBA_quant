@@ -7,5 +7,6 @@
 
 ## [HFT] High Frequency Trading
 * Deep Reinforcement Learning
-* Optimal Execution  
+* Optimal Execution
+  
   Learn to develop models for algorithmic trading in contexts such as executing large orders, market making, targeting VWAP and other schedules, trading pairs or collection of assets, and executing in dark pools. We will also learn the combination of sophisticated mathematical modeling, empirical facts, and financial economics to understand how modern electronic markets operate, what information provides a trading edge, and how other market participants may affect the profitability of the algorithms.
